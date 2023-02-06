@@ -1,4 +1,4 @@
-package src;
+package src.pz_1;
 import java.util.Date;
 public class Jellyfish extends Animal{
     Food food = Food.Whatever;
